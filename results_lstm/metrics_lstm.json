@@ -1,0 +1,35 @@
+[
+  {
+    "square_id": 5161,
+    "model": "LSTM",
+    "MAE": 94.07044982910156,
+    "RMSE": 137.0701446533203,
+    "MAPE": 11.650836944580078,
+    "fit_time_s": 80.471393834,
+    "inference_time_s": 0.1354243749999995,
+    "epochs_run": 50,
+    "n_test_points": 1008
+  },
+  {
+    "square_id": 5059,
+    "model": "LSTM",
+    "MAE": 79.47840118408203,
+    "RMSE": 109.21959686279297,
+    "MAPE": 9.843905448913574,
+    "fit_time_s": 71.67662220800001,
+    "inference_time_s": 0.13349958399999196,
+    "epochs_run": 45,
+    "n_test_points": 1008
+  },
+  {
+    "square_id": 5259,
+    "model": "LSTM",
+    "MAE": 74.07173156738281,
+    "RMSE": 105.68407440185547,
+    "MAPE": 8.398075103759766,
+    "fit_time_s": 84.24504662500001,
+    "inference_time_s": 0.1368171670000038,
+    "epochs_run": 35,
+    "n_test_points": 1008
+  }
+]
