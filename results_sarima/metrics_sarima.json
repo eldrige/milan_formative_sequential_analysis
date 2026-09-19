@@ -1,0 +1,32 @@
+[
+  {
+    "square_id": 5161,
+    "model": "SARIMA (Fourier)",
+    "MAE": 82.94469077460384,
+    "RMSE": 124.8977262854438,
+    "MAPE": 8.419823104749904,
+    "fit_time_s": 1.8762377500000014,
+    "inference_time_s": 0.023706916000000078,
+    "n_test_points": 1008
+  },
+  {
+    "square_id": 5059,
+    "model": "SARIMA (Fourier)",
+    "MAE": 71.22393520329508,
+    "RMSE": 98.28589003290492,
+    "MAPE": 7.694554746400371,
+    "fit_time_s": 1.6794991249999995,
+    "inference_time_s": 0.02236070899999909,
+    "n_test_points": 1008
+  },
+  {
+    "square_id": 5259,
+    "model": "SARIMA (Fourier)",
+    "MAE": 68.4401497348184,
+    "RMSE": 97.18094951912732,
+    "MAPE": 7.695442274769032,
+    "fit_time_s": 3.4237449580000003,
+    "inference_time_s": 0.020462541999998862,
+    "n_test_points": 1008
+  }
+]
